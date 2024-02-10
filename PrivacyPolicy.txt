@@ -1,0 +1,47 @@
+Tricky Riddles Privacy Policy
+
+Micro Games ("we", "us", or "our") respects the privacy of our users ("you" or "your"). This Privacy Policy describes how we collect, use, and disclose information about you in connection with our mobile game, Tricky Riddles.
+
+Information We Collect
+
+We do not collect any personal information from you through the Game. This includes information such as your name, email address, phone number, location, or device ID.
+
+Information Collected Automatically
+
+Certain non-personal information may be collected automatically when you use the Game. This information may include:
+
+Device information: type of device, operating system, and other technical information.
+Usage information: how you use the Game, such as the levels you play, the time you spend playing, and the features you use.
+This information is collected and used in an aggregated and anonymized manner to improve the Game and our advertising efforts.
+
+Third-Party Services
+
+The Game may integrate with third-party services such as:
+
+Advertising networks: These services deliver targeted advertising within the Game. They may collect information about your device and usage to personalize the ads you see. Please refer to the privacy policies of these services for more information about their data collection practices.
+Analytics services: These services help us understand how users interact with the Game. They may collect information about your device and usage, but this information is anonymized and cannot be used to identify you personally.
+In-App Purchases
+
+The Game may offer in-app purchases. If you make an in-app purchase, your payment information will be collected and processed by Google Play, in accordance with their privacy policy. We do not have access to your payment information.
+
+Children's Privacy
+
+We do not knowingly collect or solicit personal information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us immediately. We will take steps to remove such information from our records.
+
+Your Choices
+
+You have the following choices regarding your information:
+
+You can uninstall the Game at any time.
+You can control your advertising preferences through your device settings.
+You can review and manage your Google Play account settings.
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the Game.
+
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+Micro Games
+pausethebreak@gmail.com
